@@ -1,79 +1,44 @@
-<p align="center">
-  <img src="https://github.com/amber-khurshid/amber-khurshid/assets/112962916/61928a9c-b7de-4ac2-a4ec-cf76f80d5bbe" alt="image">
-</p>
-
 
 ## About Me
 
-Aspiring AI enthusiast and current Artificial Intelligence student at FAST-NUCES, passionate about uncovering the endless potential of AI and its future implications. I am eager to contribute to innovative projects and collaborate with professionals at the dynamic intersection of AI and technology. Open to networking, learning, and tackling challenges that promote personal and professional growth. Let's connect and explore the exciting worlds of AI and web development together! #AI #MachineLearning #WebDevelopment #FASTNUCES #StudentInProgress
+Hello! I'm Tehmeena Bibi, a Computer Science student at FAST-NUCES with a strong passion for technology and a growing love for graphic design. I thrive at the intersection of logic and creativity, combining my technical skills with a keen eye for design. I am excited about contributing to innovative projects that push the boundaries of both computer science and design. Whether it's coding an elegant solution or crafting a visually stunning graphic, I'm always eager to learn and grow.
+
+- 🌱 I’m currently exploring advanced algorithms and enhancing my skills in graphic design.
+- 🎨 Passionate about blending technology with creativity through graphic design.
+- 💬 Feel free to reach out if you want to discuss C++, Python, OOP, Assembly Language, or Graphic Design.
 
 
-- 🌱 I’m currently delving into advanced Machine Learning techniques and AI algorithms.
-- 💬 Ask me about C++, Python, Machine Learning, Artificial Intelligence, Databases, Assembly Language, and Web Development.
-- 📫 How to reach me: amberkhurshidraja@gmail.com
-
-![Profile Views](https://komarev.com/ghpvc/?username=amber-khurshid&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=tehmeena-bibi&color=blue&style=flat-square)
 
 ## 🚀 Skills and Technologies
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00BFFF?style=for-the-badge)
-![Database](https://img.shields.io/badge/Database-4DB33D?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-808080?style=for-the-badge)
-![Web Development](https://img.shields.io/badge/Web%20Development-0078D6?style=for-the-badge)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF1493?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/amber-khurshid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amber-khurshid&show_icons=true&theme=dark" alt="Amber's GitHub Stats" />
+<a href="https://github.com/tehmeena-bibi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tehmeena-bibi&show_icons=true&theme=dark" alt="Tehmeena's GitHub Stats" />
 </a>
 
 ## 🔥 GitHub Streak
 
-<a href="https://github.com/amber-khurshid">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amber-khurshid&theme=dark" alt="Amber's GitHub Streak" />
+<a href="https://github.com/tehmeena-bibi">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tehmeena-bibi&theme=dark" alt="Tehmeena's GitHub Streak" />
 </a>
 
 ## 📈 Top Languages
 
-<a href="https://github.com/amber-khurshid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amber-khurshid&layout=compact&theme=dark" alt="Top Languages" />
-</a>
-
-## 🏆 GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=amber-khurshid&theme=darkhub" alt="GitHub Trophies" />
+<a href="https://github.com/tehmeena-bibi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehmeena-bibi&layout=compact&theme=dark" alt="Top Languages" />
 </a>
 
 
 
+## 📧 Get in Touch
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/AmberKhurshid_">
-    <img src="https://img.shields.io/twitter/follow/AmberKhurshid_?style=social" alt="Twitter" />
-  </a>
-  <br/>
-  <a href="https://linkedin.com/in/amber-khurshid">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <br/>
-  <a href="https://www.instagram.com/amberkhh/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=social&logo=instagram" alt="Instagram" />
-  </a>
-</p>
-
-
-
-
-
-
-## 📧 Contact Me
-
-For any inquiries, reach out to me at amberkhurshidraja@gmail.com.
+For any inquiries, or to collaborate on a project, feel free to drop me a message at tehmeenabibi462@gmail.com.
 
 ---
