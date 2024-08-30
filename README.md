@@ -17,23 +17,9 @@ Hello! I'm Tehmeena Bibi, a Computer Science student at FAST-NUCES with a strong
 ![Assembly](https://img.shields.io/badge/Assembly-808080?style=for-the-badge)
 ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF1493?style=for-the-badge)
 
-## 📊 GitHub Stats
 
-<a href="https://github.com/tehmeena-bibi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tehmeena-bibi&show_icons=true&theme=dark" alt="Tehmeena's GitHub Stats" />
-</a>
 
-## 🔥 GitHub Streak
 
-<a href="https://github.com/tehmeena-bibi">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tehmeena-bibi&theme=dark" alt="Tehmeena's GitHub Streak" />
-</a>
-
-## 📈 Top Languages
-
-<a href="https://github.com/tehmeena-bibi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehmeena-bibi&layout=compact&theme=dark" alt="Top Languages" />
-</a>
 
 
 
